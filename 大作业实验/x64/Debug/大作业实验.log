@@ -1,0 +1,7 @@
+﻿  源.cpp
+D:\C\Code\大作业实验\源.cpp(28,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C\Code\大作业实验\源.cpp(28,53): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C\Code\大作业实验\源.cpp(32,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C\Code\大作业实验\源.cpp(184,1): warning C4715: “operator<”: 不是所有的控件路径都返回值
+D:\C\Code\大作业实验\源.cpp(431,1): warning C4715: “divide”: 不是所有的控件路径都返回值
+  大作业实验.vcxproj -> D:\C\Code\大作业实验\x64\Debug\大作业实验.exe
